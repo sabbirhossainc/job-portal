@@ -1,3 +1,9 @@
+# Preview the site
+
+This site provides a minimal setup to get a job portal based on a real server(free) and can be add jobs, update jobs, delete jobs afterwards.
+
+## Live at [JOb app](https://job-portal-one-green.vercel.app) 
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
